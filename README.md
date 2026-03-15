@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Razali</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Adam Razali</h1>
 <h3 align="center">Computer Science Student | Passionate about AI, Data Science & Full-Stack Development</h3>
 
 <p align="center">
