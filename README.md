@@ -10,10 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Studying Computer Science at Universiti Tun Hussein Onn Malaysia (UTHM).
-- 🔭 **Currently working on:** RAG applications using Agno, Unstructured.io, and Qdrant vector databases.
-- 🚀 **Past Projects:** Live shuttle tracking applications, AI-powered learning tools (Malim Hackathon), and Flutter-based agricultural apps (APAC Solution Challenge).
-- 🌱 **Currently learning:** Advanced Cloud Architectures (Azure, AWS, GCP) and Deep Learning frameworks.
-- 💬 **Ask me about:** Python, Machine Learning, Flutter, and Full-Stack Web Development (Django/Next.js).
+- 🌱 **Currently learning:** Cloud Architectures (Azure, AWS) and Generative AI.
+- 💬 **Ask me about:** Python, Machine Learning, and Agentic AI.
 - 📫 **How to reach me:** [adamrazali07@gmail.com](mailto:adamrazali07@gmail.com)
 
 ---
@@ -50,7 +48,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 </p>
 
 ---
