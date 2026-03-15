@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Studying Computer Science at Universiti Tun Hussein Onn Malaysia (UTHM).
+- 🎓 **Education:** Studying Computer Science at Universtity of Technology (UTM).
 - 🌱 **Currently learning:** Cloud Architectures (Azure, AWS) and Generative AI.
-- 💬 **Ask me about:** Python, Machine Learning, and Agentic AI.
+- 💬 **Ask me about:** Python, Machine Learning, and Gen AI.
 - 📫 **How to reach me:** [adamrazali07@gmail.com](mailto:adamrazali07@gmail.com)
 
 ---
