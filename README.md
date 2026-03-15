@@ -16,6 +16,11 @@
 
 ---
 
+- 🏆 **Certifications:** <br>
+  <a href="YOUR_VERIFICATION_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Fundamentals (DP-900)">
+  </a>
+
 ### 🛠️ Languages and Tools
 
 **Programming & Languages:**
