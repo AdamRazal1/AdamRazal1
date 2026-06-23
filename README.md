@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Adam Razali</h1>
-<h3 align="center">Computer Science Student | Passionate about AI, Data Science & Full-Stack Development</h3>
+<h3 align="center">Computer Science Student | Passionate about AI, Data Engineering & Full-Stack Development</h3>
 
 <p align="center">
   Building intelligent applications and exploring the world of machine learning, data architecture, and mobile development.
